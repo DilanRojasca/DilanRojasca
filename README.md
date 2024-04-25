@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studding on [Universidad Catolica Luis Amigo](https://www.funlam.edu.co)
 
-- 🌱 I’m currently learning **Frameworks, C# courses, etc.**
+- 🌱 I’m currently learning **Frameworks, C++ courses, etc.**
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
