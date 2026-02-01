@@ -96,8 +96,6 @@
 
 > 💡 **_"Stay curious, keep building, and never stop learning!"_**  
 
-Feel free to explore my repositories or contact me for collaboration opportunities!
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph-dark.svg">
