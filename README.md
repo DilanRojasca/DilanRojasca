@@ -67,8 +67,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?logo=googlecloud&logoColor=white)  
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
+<img src="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/main/dist/snake-generated.svg" alt="Snake animation"/>
+
+</p>
