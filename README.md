@@ -67,38 +67,4 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?logo=googlecloud&logoColor=white)  
 
----
 
-## 🛠️ My Expertise:
-- 📌 **Object-Oriented Programming (OOP):** Deep understanding and implementation in diverse projects.  
-- 📌 **Data Structures and Algorithms:** Practical knowledge for efficient problem-solving.  
-- 📌 **Scrum Methodology:** Proficient in Agile workflows and team collaboration.  
-- 📌 **Machine Learning & Deep Learning:** Experienced in implementing **supervised/unsupervised learning models** and **neural networks.**  
-- 📌 **Full Stack Development:** Front-end and back-end expertise using modern frameworks and libraries.  
-- 📌 **Cloud Computing:** Skilled in application deployment on Azure and AWS.  
-
----
-
-## 📂 Featured Projects:
-- 🌟 **[AI-Powered E-commerce Platform](#):** Built with Django, React, and PostgreSQL, integrated with Machine Learning for product recommendations.  
-- 🌟 **[Cloud-Based APIs](#):** FastAPI and Spring Boot projects deployed on AWS.  
-- 🌟 **[Interactive Web Apps](#):** Developed with Tailwind CSS, Bootstrap, and JavaScript frameworks.  
-- 🌟 **[Data Science Pipeline](#):** Data preprocessing, analysis, and visualization using Pandas, NumPy, and Matplotlib.  
-
----
-
-## ✨ Fun Extras:
-🎨 When not coding, I enjoy exploring design and creative tools.  
-🌎 I’m a traveler at heart, always curious to discover new cultures and technologies.  
-🎯 Constantly challenging myself with personal projects and hackathons.  
-
----
-
-> 💡 **_"Stay curious, keep building, and never stop learning!"_**  
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/pacman-contribution-graph.svg">
-</picture>
