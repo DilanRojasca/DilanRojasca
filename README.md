@@ -67,7 +67,4 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?logo=googlecloud&logoColor=white)  
 
-<br/>
-<img src="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/main/dist/snake-generated.svg" alt="Snake animation"/>
 
-</p>
