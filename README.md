@@ -25,19 +25,18 @@ I enjoy building efficient, scalable applications and turning complex challenges
   <a href="https://www.linkedin.com/in/dilanrojasca/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:dilanrojasc10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 </p>
-<br>
 
 ### Tech Stack
 <table width="100%";>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Backend</h3>
+      <h3>Backend</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python,fastapi,java&perline=5" alt="Backend" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Frontend</h3>
+      <h3>Frontend</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css&perline=5" alt="Frontend" />
       </p>
@@ -45,13 +44,13 @@ I enjoy building efficient, scalable applications and turning complex challenges
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛢️ Database</h3>
+      <h3>Database</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb&perline=3" alt="Databases" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ DevOps & Cloud</h3>
+      <h3>DevOps & Cloud</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,vite&perline=5" alt="DevOps & Cloud" />
       </p>
