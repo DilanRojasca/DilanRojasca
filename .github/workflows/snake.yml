@@ -18,7 +18,7 @@ jobs:
       # 2. Genera la animación con la nueva paleta de verdes brillantes
       - uses: Platane/snk@v3
         with:
-          github_user_name: Pabl0vargas
+          github_user_name: DilanRojasca
           
           #  PALETA DE COLORES! ---
           outputs: |
