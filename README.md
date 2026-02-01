@@ -1,75 +1,79 @@
-# Hi 👋, I'm **Dilan Rojas**  
-**A passionate Software Engineer and Full Stack Developer from Medellín, Colombia**  
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1&pause=1000&color=70a5fd&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Dilan+Rojas" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70a5fd&background=FFFFFF00&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;Luis+Amigo+University+student;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me:
-- 🎓 **Currently studying at:** [Universidad Católica Luis Amigó](https://www.funlam.edu.co)  
-  Pursuing a degree in **System Engineering.**  
-- 🌱 **Areas of interest:**  
-  Continuously learning **Frameworks (Django, FastAPI, Spring Boot), Cloud Computing (Azure, AWS), Machine Learning, Deep Learning, and Data Structures.**  
-- 🤝 **Collaboration:**  
-  Open to working on innovative projects like **E-commerce platforms**, **AI-driven applications**, and **Data Science solutions.**  
-- 📝 **Writing:**  
-  I write technical tutorials and articles—visit my blog: [Update Soon](#).  
-- 📫 **Contact me at:**  
-  **dilanrojasc10@gmail.com**  
-- ⚡ **Fun fact:**  
-  I love exploring cultural diversity and combining it with cutting-edge technologies.
+### About Me
 
----
+🚀 Fullstack Developer passionate about Python & FastAPI.
 
-## 🌐 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilanrojasca)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white)](https://instagram.com/dilanrojas58)  
-[![Discord](https://img.shields.io/badge/Discord-Join-blueviolet?logo=discord&logoColor=white)](https://discord.gg/coolser548)
+I enjoy building efficient, scalable applications and turning complex challenges into clean, powerful solutions. Seeing code come alive and solve real problems motivates me every day.
+  
+### Contact
+<p>
+  <a href="https://www.linkedin.com/in/dilanrojasca/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:dilanrojasc10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+</p>
+<br>
 
----
+### Tech Stack
+<table width="100%";>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Backend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,java&perline=5" alt="Backend" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Frontend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css&perline=5" alt="Frontend" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛢️ Database</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb&perline=3" alt="Databases" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ DevOps & Cloud</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,vite&perline=5" alt="DevOps & Cloud" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
 
-## 💻 Languages and Tools:
+<h2>Stats</h2>
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
+<p>
+  <a href='https://github.com/anuraghazra/github-readme-stats'>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DilanRojasca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DilanRojasca&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 
-### Frameworks & Libraries:
-![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-teal?logo=fastapi&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?logo=springboot&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-skyblue?logo=tailwindcss&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)  
-
-### Machine Learning & Deep Learning Tools:
-- **Libraries:**  
-  ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-darkblue?logo=pandas&logoColor=white)  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?logo=plotly&logoColor=white)  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-teal?logo=python&logoColor=white)  
-- **Machine Learning Frameworks:**  
-  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-orange?logo=scikitlearn&logoColor=white)  
-  ![XGBoost](https://img.shields.io/badge/-XGBoost-red?logo=xgboost&logoColor=white)  
-- **Deep Learning Frameworks:**  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)  
-  ![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white)  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-lightred?logo=pytorch&logoColor=white)  
-
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)  
-
-### Cloud Platforms:
-![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoftazure&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?logo=googlecloud&logoColor=white)  
-
-
+<br>
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DilanRojasca/DilanRojasca/output/github-contribution-grid-snake.svg">
 </picture>
+</p>  
