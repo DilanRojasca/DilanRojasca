@@ -50,9 +50,9 @@ I enjoy building efficient, scalable applications and turning complex challenges
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>DevOps & Cloud</h3>
+      <h3>DevOps & Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,vite&perline=5" alt="DevOps & Cloud" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,vite&perline=5" alt="DevOps & Tools" />
       </p>
     </td>
   </tr>
